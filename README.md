@@ -1,9 +1,5 @@
 # home
-Flavio sistemas
+Flavio DevOps ERP
 
-Base para atualização de sistemas que desenvolvo.
+Base para desenvolvimento de sistemas.
 
-www.syftd.net
-
-Flávio Fabiano
-Desenvolvedor.
